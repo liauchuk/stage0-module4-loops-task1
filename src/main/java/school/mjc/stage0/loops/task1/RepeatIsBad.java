@@ -25,4 +25,5 @@ public class RepeatIsBad {
         System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
     }
 
+
 }
